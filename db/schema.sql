@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS literate-train;
+DROP DATABASE IF EXISTS literate_train;
 
-CREATE DATABASE literate-train
+CREATE DATABASE literate_train;
